@@ -1,9 +1,9 @@
 namespace: network
 name: nios
 version: 0.0.1
-# readme: README.md
-# authors:
-#   - Ansible (https://github.com/ansible)
+readme: README.md
+authors:
+  - Ansible (https://github.com/ansible)
 description: null
 license_file: COPYING
 tags: [private]
