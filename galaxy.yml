@@ -1,5 +1,5 @@
-namespace: network
-name: nios
+namespace: community
+name: general
 version: 0.0.1
 readme: README.md
 authors:
